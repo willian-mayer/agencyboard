@@ -1,4 +1,8 @@
 package com.agencyboard.agencyboard.campaign;
 
-public class CampaignStatus {
+public enum CampaignStatus {
+    ACTIVE,
+    PAUSED,
+    COMPLETED,
+    DRAFT
 }

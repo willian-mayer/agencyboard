@@ -1,4 +1,4 @@
-package com.agencyboard.agencyboard.clients;
+package com.agencyboard.agencyboard.client;
 
 import com.agencyboard.agencyboard.user.User;
 import jakarta.persistence.*;
