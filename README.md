@@ -1,6 +1,6 @@
 # AgencyBoard
 
-AgencyBoard is a SaaS platform built for digital marketing agencies. It centralizes client management, campaign tracking, and AI-generated executive reports in a single REST API — eliminating the manual work of consolidating data and writing reports for each client.
+AgencyBoard is a SaaS platform built for digital marketing agencies. It centralizes client management, campaign tracking, and AI-generated executive reports in a single REST API. Eliminating the manual work of consolidating data and writing reports for each client.
 
 The platform is multi-tenant by design: each authenticated user only sees their own clients and data.
 
@@ -75,7 +75,7 @@ GET    /api/dashboard
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/agencyboard.git
+git clone https://github.com/willian-mayer/agencyboard.git
 cd agencyboard/backend/agencyboard
 ```
 
